@@ -1,0 +1,450 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .main-content h1 {
+        font: 900 55px/1.1 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .identity h4 {
+        font: 600 25px/1.5 'Poppins', sans-serif;
+    }
+
+    .page-main-contnent h1 {
+        font: 700 50px/1.3 'Poppins', sans-serif;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .section-ways-gap {
+        padding: 104px 0;
+    }
+    
+    #heroArea .banner {
+        height: 580px;
+    }
+
+    .main-content h1 {
+        font: 900 50px/1.1 'Poppins', sans-serif;
+    }
+
+    .btn-style {
+        padding: 8px 28px;
+    }
+
+    .res-gap {
+        margin-top: 16px;
+    }
+
+    footer .res-gap {
+        margin-top: 20px;
+    }
+
+    #PageBannerArea {
+        height: 340px;
+    }
+
+    .page-main-contnent h1 {
+        font: 700 48px/1.3 'Poppins', sans-serif;
+    }
+    
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .section-ways-gap {
+        padding: 88px 0;
+    }
+
+    .section-heading h3 {
+        font: 700 30px/1.3 'Kalam', 'cursive';
+    }
+    
+    #heroArea .banner {
+        height: 520px;
+    }
+
+    .main-content h1 {
+        font: 900 46px/1.1 'Poppins', sans-serif;
+    }
+
+    .main-content p {
+        font: 400 16px/1.3 'Poppins', sans-serif;
+    }
+
+    .btn-style {
+        padding: 8px 28px;
+        font: 600 16px/1.55 'Poppins', sans-serif;
+    }
+
+    .slide-banner .slick-dots li {
+        height: 4px;
+        width: 20px;
+    }
+
+    .slide-banner .slick-dots li button {
+        height: 4px;
+        width: 20px;
+    }
+
+    .backtotop i {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 18px;
+    }
+
+    .res-gap {
+        margin-top: 12px;
+    }
+
+    footer .res-gap {
+        margin-top: 16px;
+    }
+
+    #PageBannerArea {
+        height: 320px;
+    }
+
+    .page-main-contnent h1 {
+        font: 700 44px/1.3 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .description {
+        height: 120px;
+    }
+
+    .about-detail h4 {
+        font: 700 24px/1.3 'Poppins', sans-serif;
+    }
+
+    .about-detail p {
+        font: 400 16px/1.3 'Poppins', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .testimonial-content .identity h4 {
+        font: 600 24px/1.5 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .identity h6 {
+        font: 300 16px/1.5 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .description p {
+        font: 400 18px/1.3 'Kalam', 'cursive';
+    }
+
+    .footer-content h4 {
+        font: 600 24px/1.5 'Poppins', sans-serif;
+    }
+
+    .footer-content address {
+        font: 200 16px/1.5 'Poppins', sans-serif;
+    }
+
+    .footer-content .tel a {
+        font: 400 16px/1.3 'Poppins', sans-serif;
+    }
+
+    .casino-detail h4 {
+        font: 500 24px/1.4 'Poppins', sans-serif;
+        margin-bottom: 12px;
+    }
+
+    .casino-detail p {
+        font: 400 16px/1.3 'Poppins', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .yeacht-detail h4 {
+        font: 800 24px/1.5 'Poppins', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .yeacht-detail h6 {
+        font: 700 16px/1.5 'Kalam', 'cursive';
+    }
+
+    .yeacht-detail p {
+        font: 500 16px/1.5 'Poppins', sans-serif;
+        margin: 6px 0;
+    }
+
+    .yeacht-detail .price {
+        font: 600 16px/1.5 'Poppins', sans-serif;
+    }
+
+    .destination-detail h5 {
+        font: 700 21px/1.3 'Poppins', sans-serif;
+        margin-bottom: 12px;
+    }
+
+    .destination-detail ul li span {
+        font: 500 16px/1.3 'Poppins', sans-serif;
+    }
+
+    nav .myLogo img {
+        width: 220px;
+    }
+
+}
+
+@media (max-width: 991.98px) {
+    .mainNavbar {
+        background-color: rgba(255, 255, 255, 0.6);
+    }
+
+    .navbar-toggler {
+        border: 1px solid #072435;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler i {
+        color: #072435;
+    }
+
+    nav .myUl {
+        text-align: center;
+    }
+
+    nav .myUl li a {
+        color: #2a88be;
+    }
+
+    nav .myUl li a::after, 
+    nav .myUl li a::before {
+        display: none;
+    }
+
+    #heroArea .next, 
+    #heroArea .prev {
+        display: none !important;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+    .section-ways-gap {
+        padding: 64px 0;
+    }
+
+    .section-heading-gap {
+        margin-top: 32px;
+    }
+
+    .section-heading h3 {
+        font: 700 26px/1.3 'Kalam', 'cursive';
+    }
+
+    nav .myLogo img {
+        width: 200px;
+    }
+    
+    #heroArea .banner {
+        height: 480px;
+    }
+
+    .page-main-contnent {
+        margin-top: 52px;
+    }
+
+    .main-content {
+        margin-top: 40px;
+    }
+
+    .main-content h1 {
+        font: 900 38px/1.1 'Poppins', sans-serif;
+    }
+
+    .main-content p {
+        font: 400 15px/1.3 'Poppins', sans-serif;
+    }
+
+    .btn-style {
+        padding: 6px 24px;
+        font: 600 15px/1.55 'Poppins', sans-serif;
+    }
+
+    .slide-banner .slick-dots {
+        display: none !important;
+    }
+
+    .backtotop {
+        display: none;
+    }
+
+    .res-gap {
+        margin-top: 10px;
+    }
+
+    footer .res-gap {
+        margin-top: 12px;
+    }
+
+    #PageBannerArea {
+        height: 280px;
+    }
+
+    .page-main-contnent ul li .home {
+        font-size: 20px;
+    }
+
+    .page-main-contnent ul li a {
+        font: 400 15px/1.3 'Poppins', sans-serif;
+    }
+
+    .page-main-contnent h1 {
+        font: 700 36px/1.3 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .description {
+        height: 120px;
+    }
+
+    .about-detail h4 {
+        font: 700 22px/1.3 'Poppins', sans-serif;
+    }
+
+    .about-detail p {
+        font: 400 15px/1.3 'Poppins', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .testimonial-content .identity h4 {
+        font: 600 22px/1.5 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .identity h6 {
+        font: 300 16px/1.5 'Poppins', sans-serif;
+    }
+
+    .testimonial-content .description p {
+        font: 400 16px/1.3 'Kalam', 'cursive';
+    }
+
+    .footer-content h4 {
+        font: 600 22px/1.5 'Poppins', sans-serif;
+    }
+
+    .footer-content h6 {
+        margin-bottom: 4px;
+    }
+
+    .footer-content address {
+        align-items: flex-start;
+        font: 200 14px/1.5 'Poppins', sans-serif;
+    }
+
+    .footer-content .tel a {
+        font: 400 14px/1.3 'Poppins', sans-serif;
+    }
+
+    .casino-detail h4 {
+        font: 500 22px/1.4 'Poppins', sans-serif;
+        margin-bottom: 12px;
+    }
+
+    .casino-detail p {
+        font: 400 15px/1.3 'Poppins', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .yeacht-detail h4 {
+        font: 800 22px/1.5 'Poppins', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .yeacht-detail h6 {
+        font: 700 15px/1.5 'Kalam', 'cursive';
+    }
+
+    .yeacht-detail p {
+        font: 500 15px/1.5 'Poppins', sans-serif;
+        margin: 6px 0;
+    }
+
+    .yeacht-detail .price {
+        font: 600 15px/1.5 'Poppins', sans-serif;
+    }
+
+    .destination-detail h5 {
+        font: 700 19px/1.3 'Poppins', sans-serif;
+        margin-bottom: 12px;
+    }
+
+    .destination-detail ul li span {
+        font: 500 15px/1.3 'Poppins', sans-serif;
+    }
+
+    .copyright {
+        font-size: 14px;
+    }
+
+    .contact-form label {
+        margin-bottom: 4px;
+        font: 700 16px/1.5 'Poppins', sans-serif;
+    }
+
+    .contact-form {
+        padding: 14px 16px;
+    }
+
+    .contact-form textarea {
+        height: 120px;
+    }
+
+    footer .action-btn {
+        display: none;
+    }
+
+    nav .myUl li a {
+        font: 600 16px/1.55 'Poppins', sans-serif;
+    }
+}
+
+@media (max-width: 380.98px) {
+    #heroArea .banner {
+        height: 420px;
+    }
+
+    #PageBannerArea {
+        height: 240px;
+    }
+
+    .main-content {
+        margin-top: 52px;
+    }
+
+    .page-main-contnent {
+        margin-top: 44px;
+    }
+
+    .section-ways-gap {
+        padding: 40px 0;
+    }
+
+    .main-content h1 {
+        font: 900 30px/1.1 'Poppins', sans-serif;
+    }
+
+    .main-content p {
+        font: 400 14px/1.3 'Poppins', sans-serif;
+    }
+
+    .page-main-contnent h1 {
+        font: 700 27px/1.3 'Poppins', sans-serif;
+    }
+
+    .contact-form {
+        padding: 8px 10px;
+    }
+
+    footer .social-links ul li a {
+        font-size: 28px;
+    }
+
+}
