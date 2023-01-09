@@ -1,3 +1,8 @@
+$(window).load(function(){
+  $(".backtotop i").hide();
+});
+// Load function
+
 $(window).scroll(function(){
     let scrolling = $(this).scrollTop();
     if( scrolling > 100){
